@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610377633 source:c:\users\kresna\downloads\sm5\cg\181511051_3dcar\main.cpp
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<iostream>
+
