@@ -24,3 +24,4 @@ C: \ Windows \ SysWOW64
 -lglu32
 8. Run the following OGL01Shape3D.cpp program to make sure Freeglut is connected. Download test program in this link :
 https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Examples.html
+# Test push access from Hermes server
